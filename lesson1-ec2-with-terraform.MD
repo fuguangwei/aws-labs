@@ -1,6 +1,9 @@
 # edit by David
+# 1st branch pull
 # 2nd branch pull
+# 3nd branch pull
 # 4th branch pull
+# 5th branch pull
 In this mini lab/lesson we are going to provision an EC2 using Hashicorps's terraform.
 
 Reference:
