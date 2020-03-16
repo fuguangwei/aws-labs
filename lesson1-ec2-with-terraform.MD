@@ -1,4 +1,4 @@
-
+# edit by David
 In this mini lab/lesson we are going to provision an EC2 using Hashicorps's terraform.
 
 Reference:
